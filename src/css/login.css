@@ -1,0 +1,114 @@
+.login {
+    position: relative;
+    top: 6rem;
+}
+
+.container {
+    width: 25% !important;
+    background-color: rgb(77, 74, 87);
+}
+
+h4 {
+    font-family: 'Parisienne', cursive;
+}
+
+h4,h5 {
+    color: mintcream;
+}
+
+input {
+    border-radius: 0% !important;
+    border-top-right-radius: 5px !important;
+    border-bottom-right-radius: 5px !important;
+}
+
+div > div.border{
+    border: 3px solid rgb(135, 134, 196) !important;
+    border-radius: 10px;
+    padding: 5px 5px 5px;
+    box-shadow: 4px 4px 4px rgb(67, 83, 88);
+}
+
+.form-group {
+    padding: 5px 5px;
+    width: 75%;
+}
+
+.user-icon {
+    padding: 6px;
+    width: 50px;
+    border-top-left-radius: 10%;
+    border-bottom-left-radius: 10%;
+    background-color: lightblue;
+}
+
+.f-pwd {
+    color: powderblue;
+}
+
+.hr__line {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.hr__line::before,
+.hr__line::after {
+    content: '';
+    flex: 1;
+    border-bottom: 1px solid gainsboro;
+}
+
+.hr__line:not(:empty)::before {
+    margin-right: .20em;
+}
+
+.hr__line:not(:empty)::after {
+    margin-left: .20em;
+}
+
+.btn {
+    background-color: transparent !important;
+}
+
+.btn-success {
+    background-color: rgb(207, 146, 31) !important;
+}
+
+.btn-info {
+    background-color: lavenderblush !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+small {
+    color: lightcyan;
+}
+
+h1 {
+    color: lightcyan;
+}
+
+div > div > div.border {
+    border-color: lightgray !important;
+}
+
+.image {
+    width: 100%;
+    object-fit: contain;
+    height: 50px;
+}
+
+label {
+    color: lightgray;
+}
+
+.form-check-label{
+    margin-top:1px !important;
+}
+
+#signin{
+    margin-right: 5px;
+}

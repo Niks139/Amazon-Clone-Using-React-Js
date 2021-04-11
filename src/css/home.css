@@ -1,9 +1,14 @@
 .bg__img{
-    width: 100%;
     z-index: -1;
     mask-image: linear-gradient(to bottom, rgb(0,0,0,1), rgb(0,0,0,0));
 }
 
-.container {
-    width: 100%;
+
+.carousel-control-next, .carousel-control-prev {
+    top: 160px !important;
+    align-items: unset !important;
+}
+
+.cardTitle {
+    color: steelblue;
 }

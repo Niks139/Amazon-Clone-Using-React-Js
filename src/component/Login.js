@@ -24,7 +24,7 @@ function Login() {
                     <button className="btn btn-success">Sign-In</button>
                     <a className="mt-2 f-pwd">Forgot password?</a>
                     </div>
-                    <small className="ms-3 mr-3">By continuing, you agree to Amazon's <a href="#">Condintions of Use and Privacy Notice.</a></small>
+                    <small className="ms-3 mr-3">By continuing, you agree to Amazon's <a href="#">Conditions of Use and Privacy Notice.</a></small>
                     <div class="form-check ms-5">
                         <input type="checkbox" value="" id="signin" />
                         <label class="form-check-label" for="sign-in">

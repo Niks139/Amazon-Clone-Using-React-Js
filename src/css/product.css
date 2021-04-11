@@ -1,0 +1,36 @@
+.bg {
+    background-color: rgb(58, 58, 58);
+    display: flex;
+}
+
+.pp {
+    color: honeydew;
+}
+
+.card {
+    width: 100%;
+    max-height: 400px;
+    min-width: 100px;
+    z-index: 1;
+}
+
+.img__size{
+    max-height: 200px;
+    object-fit: contain;
+}
+
+.card-text {
+    color: ivory !important;
+}
+
+.price {
+    color: sandybrown;
+}
+
+.img__details {
+    max-width: 550px;
+}
+
+.btn-bg {
+    background-color: burlywood !important;
+}

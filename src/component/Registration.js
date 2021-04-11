@@ -38,9 +38,9 @@ const Registration = () => {
                             Keep me signed In. Details <i class="fas fa-caret-down"></i>
                         </label>
                     </div>
-                    <h5 className="hr__line">New to amazon?</h5>
+                    <h5 className="hr__line">Already on amazon?</h5>
                     <div className="d-flex justify-content-evenly">
-                        <a href="/registration"><button className="btn btn-info mb-2"> Create your amazon </button></a>
+                        <a href="/login"><button className="btn btn-info mb-2"> Login </button></a>
                     </div>
                     </div>  
                     </div>

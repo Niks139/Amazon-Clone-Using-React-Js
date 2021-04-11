@@ -1,0 +1,293 @@
+{
+  "products": [
+      {
+          "id" : 2,
+          "image": "cam1.jpg",
+          "title": "Wyze Cam v2 1080p HD Smart Home Camera with Night Vision, 2-Way Audio, Free Cloud, for iOS and Android (US Version)",
+          "price": "$39.99",
+          "category": "Security",
+          "desc" : "Audio and Motion type alert, Wifi supported and Corded Electric Power Support",
+          "bestSeller": true
+      },
+      {
+          "id" : 3,
+          "image": "cam2.jpg",
+          "title": "Security Camera Wireless Outdoor, Solar Powered Wireless Surveillance Camera, 1080P Night Vision/Waterproof, PIR Motion Detection, 2-Way Audio, Compatible with Cloud Storage/SD Slot",
+          "price": "$76.49",
+          "category": "Security",
+          "desc" : "Motion type alert, Wifi supported and Solar power sourced.",
+          "bestSeller": false
+      },
+      {
+          "id" : 4,
+          "image": "cam3.jpg",
+          "title": "Wireless Security Camera System Solar Powered Battery Rechargeable Panel, Night Vision, Home Outdoor, 1080p, 2-Way Audio, Wall Mount with 2 WiFi Camera NVR kit and 128G TF Card PIR Motion Sensor",
+          "price": "$289.99",
+          "category": "Security",
+          "desc" : "100% Wireless Camera, mini NVR+Solar Panel wireless security camera. Rechargeable and get Non-Stop solar power supply with its own panel. No need to plug into power ever. Neat easy installation requires no drilling. plug and play so you can install it yourself in a few minutes. Complete instructions included. If you require 4ch cameras panels kits, please search ASIN B089GPGSBT.",
+          "bestSeller": true
+      },
+      {
+          "id" : 5,
+          "image": "Cpu1.jpg",
+          "title": "ASUS ROG Strix G35CZ Gaming Desktop PC, GeForce RTX 2070 Super, Intel Core™ i7-10700KF, 16GB DDR4 RAM, 1TB SSD + 1TB HDD, Windows 10 Home, G35CZ-CA008T",
+          "price": "$2289.99",
+          "category": "Computer Accessories",
+          "desc" : "NVIDIA GeForce RTX 2070 SUPER 8GB GDDR6: 1x HDMI, 3x DP Liquid cooled Intel Core i7-10700KF Processor 3.8 GHz (up to 5.0 GHz) 1TB M.2 NVMe PCIe 3.0 SSD + 1TB SATA 7200RPM 3.5 HDD | 16GB DDR4 SO-DIMM | Windows 10 Home",
+          "bestSeller": true
+      },
+      {
+          "id" : 6,
+          "image": "cpu2.jpg",
+          "title": "XPG INFAREX K10 RGB Gaming Keyboard, Black",
+          "price": "$39.49",
+          "category": "Computer Accessories",
+          "desc" : "Enhance gameplay and immersion with an RGB lighting effect that matches the game you’re playing or your present situation on the battlefield.",
+          "bestSeller": false
+      },
+      {
+          "id" : 7,
+          "image": "cpu3.jpg",
+          "title": "Redragon M602 RGB Wired Gaming Mouse RGB Spectrum Backlit Ergonomic Mouse Griffin Programmable with 7 Backlight Modes up to 7200 DPI for Windows PC Gamers (Black)",
+          "price": "$22.49",
+          "category": "ComputerAccessories",
+          "desc" : "WIRED GAMING MOUSE; built for PC Gamers - Ergonomic Redragon M602A-RGB Griffin RGB Backlit Gaming Mouse up to 7200 DPI (user adjustable 800/1200/1600/2400/7200 DPI), 10G acceleration. The High-Precision Sensor delivers Pinpoint Accuracy while the Gaming Grade Micro Switches ensure longevity, greater durability and extreme responsiveness, giving you an even greater edge over your competition.",
+          "bestSeller": false
+      },
+      {
+          "id" : 8,
+          "image": "ma1.jpg",
+          "title": "5 Pack LK Screen Protector for Apple Watch 44mm Series 4, Series 5, Series 6, SE, Series 3, Series 2, Series 1 42mm, Model No. JP1028, Full Coverage, Self Healing, Anti-Bubble for iWatch Flexible TPU HD Clear Film",
+          "price": "$14.99",
+          "category": "MobileWatch",
+          "desc" : "Specially designed for Apple Watch 44mm Series 4; 42mm Series 1, Series 2, Series 3 only, NOT for any other models.",
+          "bestSeller": true
+      },
+      {
+          "id" : 9,
+          "image": "ma2.jpg",
+          "title": "Samsung Galaxy A11 32GB (6.4 inch) Display Triple Camera A115U Black Unlocked Smartphone",
+          "price": "$14.99",
+          "category": "MobileWatch",
+          "desc" : "Enhance gameplay and immersion with an RGB lighting effect that matches the game you’re playing or your present situation on the battlefield.",
+          "bestSeller": true
+      },
+      {
+          "id" : 10,
+          "image": "ma3.jpg",
+          "title": "Beats Solo Pro Wireless Noise Cancelling On-Ear Headphones - Apple H1 Headphone Chip, Class 1 Bluetooth, 22 Hours of Listening Time, Built-in Microphone - Black",
+          "price": "$199.99",
+          "category": "MobileWatch",
+          "desc" : "High-performance wireless noise cancelling headphones in Black Active Noise Cancelling (ANC) blocks external noise Up to 22 hours of listening time (up to 40 hours with ANC and transparency turned off)",
+          "bestSeller": true
+      },
+      {
+        "id" : 11,
+        "image": "ma4.jpg",
+        "title": "BLU Srudio Mini",
+        "price": "$94.99",
+        "category": "MobileWatch",
+        "desc" : "5.5HD Smartphone, 32Gb+2Gb RAM -Black",
+        "bestSeller": false
+      },
+      {
+        "id" : 11,
+        "image": "ma5.jpg",
+        "title": "ANNSM Smartphone Mobile Phone VLOG Video Rig Cage Kit with Microphone",
+        "price": "$64.99",
+        "category": "MobileWatch",
+        "desc" : "LED Light and Mini Table Top Tripod Lightweight Compatible with All Mobile Phones",
+        "bestSeller": false
+      },
+      {
+        "id" : 12,
+        "image": "ma6.jpg",
+        "title": "10inch Selfie Ring Light with Adjustable Tripod Stand",
+        "price": "$52.99",
+        "category": "MobileWatch",
+        "desc" : "3 Modes 10 Brightness Levels with 120 LED Bulbs 5500K, LED Ring Light with Phone Holder for Vlogs, Live Stream, Phone,YouTube,Self-Portrait Shooting",
+        "bestSeller": false
+      },
+      {
+        "id" : 13,
+        "image": "ma7.jpg",
+        "title": "Selfie Stick Tripod",
+        "price": "$28.04",
+        "category": "MobileWatch",
+        "desc" : "UBeesize 51inch Extendable Tripod Stand with Bluetooth Remote for Cell Phones and Cameras, Heavy Duty Aluminum, Lightweight",
+        "bestSeller": true
+      },
+      {
+        "id" : 14,
+        "image": "ma7.jpg",
+        "title": "Selfie Stick Tripod",
+        "price": "$28.04",
+        "category": "MobileWatch",
+        "desc" : "UBeesize 51inch Extendable Tripod Stand with Bluetooth Remote for Cell Phones and Cameras, Heavy Duty Aluminum, Lightweight",
+        "bestSeller": true
+      },
+      {
+        "id" : 15,
+        "image": "ma8.jpg",
+        "title": "Selfie Stick Tripod",
+        "price": "$29.99",
+        "category": "MobileWatch",
+        "desc" : "KKUYI Extendable Bluetooth Selfie Stick with Wireless Remote",
+        "bestSeller": false
+      },
+      {
+        "id" : 16,
+        "image": "ma9.jpg",
+        "title": "VANKYO Wireless Earbuds X180",
+        "price": "$49.99",
+        "category": "MobileWatch",
+        "desc" : "in-Ear Bluetooth 5.0 Earphones, USB-C Charging Case, IPX8 Waterproof Sport Headphones with Mic",
+        "bestSeller": false
+      },
+      {
+        "id" : 17,
+        "image": "ma10.jpg",
+        "title": "Monster Achieve 100 AirLinks Wireless Earbuds",
+        "price": "$83.99",
+        "category": "MobileWatch",
+        "desc" : "Bluetooth 5.0 in-Ear Stereo Headphones, Built-in Mics for Clear Calls, USB-C Quick Charge",
+        "bestSeller": false
+      },
+      {
+        "id" : 18,
+        "image": "ma11.jpg",
+        "title": "Sesh True Wireless In-Ear Earbud",
+        "price": "$39.97",
+        "category": "MobileWatch",
+        "desc" : "Bluetooth, charging case, mic, sweat & water resistant",
+        "bestSeller": false
+      },
+      {
+        "id" : 19,
+        "image": "ma12.jpg",
+        "title": "Mpow 35Hrs Noise Cancelling Headphones",
+        "price": "$49.98",
+        "category": "MobileWatch",
+        "desc" : "Bluetooth Headphones Over Ear with Quick Charge, HiFi Deep Bass",
+        "bestSeller": false
+      },
+      {
+        "id" : 20,
+        "image": "ma13.jpg",
+        "title": "PowerLocus Bluetooth Over-Ear Headphones",
+        "price": "$34.98",
+        "category": "MobileWatch",
+        "desc" : "Wireless Stereo Foldable Headphones Wireless and Wired Headsets with Built-in Mic, Micro SD/TF",
+        "bestSeller": false
+      },
+      {
+        "id" : 21,
+        "image": "ma14.jpg",
+        "title": "Echo dot(4th Gen)",
+        "price": "$69.99",
+        "category": "MobileWatch",
+        "desc" : "Smart speaker with Alexa | Charcoal",
+        "bestSeller": false
+      },
+      {
+        "id" : 22,
+        "image": "ma15.jpg",
+        "title": "Echo dot(4th Gen)",
+        "price": "$34.99",
+        "category": "MobileWatch",
+        "desc" : "Simple and secure magnetic attachment to Echo Show 8",
+        "bestSeller": false
+      },
+      {
+        "id" : 23,
+        "image": "b1.jpg",
+        "title": "Philips Avent Natural Infant Starter Set",
+        "price": "$39.99",
+        "category": "Baby",
+        "desc" : "Easy to combine breast and bottle feeding natural latch on due to the wide breast shaped nipple soft nipple designed to mimic the feel of the breast flexible spiral design combined with comfort petals",
+        "bestSeller": false
+      },
+      {
+        "id" : 24,
+        "image": "wipes.jpg",
+        "title": "Baby Wipes",
+        "price": "$22.99",
+        "category": "Baby",
+        "desc" : "Pampers Complete Clean UNSCENTED 15X Pop Top, Hypoallergenic and Dermatologist-Tested, 1200 Count",
+        "bestSeller": true
+      },
+      {
+        "id" : 25,
+        "image": "tent.jpg",
+        "title": "bblüv - Sunkitö",
+        "price": "$50.97",
+        "category": "Baby",
+        "desc" : "Sun & Mosquito Play Tent for Infants and Toddlers",
+        "bestSeller": true
+      },
+      {
+        "id" : 26,
+        "image": "chair.jpg",
+        "title": "Summer Infant Pop 'n Sit SE Booster Chair ",
+        "price": "$46.89",
+        "category": "Baby",
+        "desc" : "Activity floor seat and booster all in one; for indoor and outdoor use; 6 months-4 years",
+        "bestSeller": false
+      },
+      {
+        "id" : 27,
+        "image": "stroller.jpg",
+        "title": "Summer Infant Pop 'n Sit SE Booster Chair SlowTon Stroller Weather Shield Universal",
+        "price": "$22.99",
+        "category": "Baby",
+        "desc" : "Baby Stroller Rain Cover with Clear Eye Screen Windproof Dustproof Toddler Stroller Covers for Outdoor Stroller Accessory",
+        "bestSeller": false
+      },
+      {
+        "id" : 28,
+        "image": "pillow.jpg",
+        "title": "Baby Pillow Anti-Flat Head",
+        "price": "$32.29",
+        "category": "Baby",
+        "desc" : "Memory Foam Infant Pillow for 0-2T Baby Girl and Boy, Newborn Head Shaping Sleeping Pillow with Neck Support, Washable Cotton Cover",
+        "bestSeller": false
+      },
+      {
+        "id" : 29,
+        "image": "blocks.jpg",
+        "title": "Mega Bloks First Builders Big Building Bag With Big Building Blocks",
+        "price": "$14.97",
+        "category": "Baby",
+        "desc" : "Building Toys For Toddlers (80 Pieces)",
+        "bestSeller": true
+      },
+      {
+        "id" : 30,
+        "image": "horse.jpg",
+        "title": "labebe Baby Rocking Horse",
+        "price": "$135.99",
+        "category": "Baby",
+        "desc" : "Plush Wooden Riding Horse for 1-3 Years Boy&Girl",
+        "bestSeller": false
+      },
+      {
+        "id" : 31,
+        "image": "towel.jpg",
+        "title": "Simple Joys by Carter's",
+        "price": "$33.30",
+        "category": "Baby",
+        "desc" : "Baby Girls' 8-Piece Towel and Washcloth Set",
+        "bestSeller": true
+      },
+      {
+        "id" : 32,
+        "image": "shampoo.jpg",
+        "title": "ATTITUDE Baby Shampoo and Body Wash 2-in-1",
+        "price": "$8.99",
+        "category": "Baby",
+        "desc" : "EWG Verified Hypoallergenic & Vegan, Safe For Sensitive Skin, Almond Milk, 16 Fl Oz",
+        "bestSeller": true
+      }
+      
+  ]
+}

@@ -51,7 +51,7 @@ function App() {
           <Route path="/bestseller"><Bestseller/></Route>
           <Route path="/categories"><Categories /></Route>
         </Switch>
-        <Footer />
+        <Footer/>
       </div>
     </BrowserRouter>
     

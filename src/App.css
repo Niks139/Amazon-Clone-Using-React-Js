@@ -1,3 +1,7 @@
 body {
     background-color: black;
 }
+
+.footer {
+    bottom: 0px;
+}

@@ -5,7 +5,7 @@ import '../css/footer.css'
 const Footer = () => {
     return (
         <div>
-            <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+            <nav className="navbar navbar-expand-lg fixed-bottom navbar-dark bg-dark">
 
                 <div className="d-flex justify-content-evenly">
                     <a href="https://www.facebook.com/Amazon">

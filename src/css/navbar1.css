@@ -1,4 +1,4 @@
-.navbar {
+.navbar__header {
 	position: sticky !important;
 }
 
@@ -38,6 +38,8 @@
     border-radius: 0%;
     border-top-left-radius: 10%;
     border-bottom-left-radius: 10%;
+    
+    background-color: whitesmoke !important;
 }
 
 
@@ -48,7 +50,7 @@
 }
 
 .btn {
-    background-color: whitesmoke;
+    background-color: whitesmoke !important;
 }
 
 .upper__line {

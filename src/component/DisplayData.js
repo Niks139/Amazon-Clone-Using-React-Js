@@ -7,9 +7,11 @@ function DisplayData()
     const [productData, setProductData] = useState([]);
 
     useEffect(() => {
-        fetch("http://localhost:8080/products")
-        .then(response=> response.json())
-        .then(data=> setProductData(data))
+        fetch("http://localhost:5000/products")
+        .then((response) => 
+        {
+          setProductData(response.data.body);
+        });
     }, [])
 
     return(

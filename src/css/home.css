@@ -12,3 +12,14 @@
 .cardTitle {
     color: steelblue;
 }
+
+.display{
+    position: fixed;
+    top: 53%;
+}
+
+/* @media screen and (min-width: 768px) {
+    [class*="display"] {
+        top: 50%;
+      }
+  } */

@@ -39,7 +39,7 @@ function Home() {
                     </div>  
                 </div>
 
-                <div className="row">
+                <div className="row display">
                     
                     <div className="col-sm-3">
                         <div class="card">

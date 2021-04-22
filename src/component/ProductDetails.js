@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { useLocation } from 'react-router';
+import axios from "axios";
 
 const ProductDetails = () => {
     
@@ -7,9 +8,12 @@ const ProductDetails = () => {
     const [productData, setProductData] = useState([]);
 
     useEffect(() => {
-        fetch(`http://localhost:8080/products/${location.state.id}`)
-        .then(response=> response.json())
-        .then(data=> setProductData(data))
+        axios.get(`http://localhost:5000/product/${location.state.id}`)
+        .then((response) => 
+        {
+          setProductData(response.data.body[0]);
+        });
+        
     }, [])
     
     return (

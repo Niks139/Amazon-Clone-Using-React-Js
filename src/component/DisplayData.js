@@ -6,13 +6,7 @@ function DisplayData()
 
     const [productData, setProductData] = useState([]);
 
-    useEffect(() => {
-        axios.get('http://localhost:5000/pruduct/all')
-          .then((response) => 
-          {
-            setProductData(response.data.body);
-          });
-    }, [])
+    
 
     return(
         <div className="row">

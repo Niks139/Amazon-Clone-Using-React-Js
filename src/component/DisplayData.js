@@ -7,11 +7,11 @@ function DisplayData()
     const [productData, setProductData] = useState([]);
 
     useEffect(() => {
-        fetch("http://localhost:5000/products")
-        .then((response) => 
-        {
-          setProductData(response.data.body);
-        });
+        axios.get('http://localhost:5000/pruduct/all')
+          .then((response) => 
+          {
+            setProductData(response.data.body);
+          });
     }, [])
 
     return(
